@@ -1,0 +1,7 @@
+﻿  main.c
+  app.c
+  server.c
+  terminal.c
+D:\MAHRAN\vs workspace\Payment Project 0.1\Payment Project 0.1\Terminal\terminal.c(20,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Payment Project 0.1.vcxproj -> D:\MAHRAN\vs workspace\Payment Project 0.1\x64\Debug\Payment Project 0.1.exe
